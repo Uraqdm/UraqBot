@@ -27,8 +27,8 @@
 
         public VKConfig()
         {
-            AccessToken = "702e57bce171c7900bf81a136c6918d491c0df6c6232061ec828af7cead0f522cd8870e74634a5bc3de5a";
-            GroupId = 208935129;
+            AccessToken = "Paste your token here";
+            GroupId = 123456789; // Paste your group id here
         }
 
         #endregion
